@@ -1,5 +1,5 @@
 # [Daily News](https://expo.dev/artifacts/eas/exNY8GMPd35wJWgUtMEaYZ.apk)
-![Daily News](https://static.javatpoint.com/blog/images/mern-stack.png)
+![Daily News](https://crowdbotics.ghost.io/content/images/2020/10/React-Native-Featured-Image.png)
 
 ##### Hi, I'm Shantanu:
 
